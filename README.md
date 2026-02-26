@@ -26,9 +26,9 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-### 🏠 ERD For Reference
+# 💭 ERD For Reference
 
-<img src="./Financial-Dashboard-ERD.png" width="600" height="600">
+<img src="./public/Financial-Dashboard-ERD.png" width="900" height="900">
 
 ## Learn More
 
